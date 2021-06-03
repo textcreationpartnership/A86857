@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble remonstrance in the behalfe of the Protestants of this kingdome, for setling the present distractions in religion, by a nationall synod With the names of the divines appointed and approved of by the Parliament to be consulted with in the nationall synod, for setling of religion, and reformation of church-government.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86857</idno><idno type="EEBO-CITATION">99896253</idno>
+  <idno type="VID">153996</idno>
+  <idno type="EEBO-PROQUEST">2240908971</idno>
+  
+            <idno type="STC">Wing H3612</idno>
+            <idno type="STC">ESTC R230331</idno>
+            <idno type="PROQUEST">99896253</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896253e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble remonstrance in the behalfe of the Protestants of this kingdome, for setling the present distractions in religion, by a nationall synod With the names of the divines appointed and approved of by the Parliament to be consulted with in the nationall synod, for setling of religion, and reformation of church-government.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian union --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153996:1"/>
+            <pb facs="tcp:153996:1"/>
+            <pb facs="tcp:153996:2"/>
+            <pb facs="tcp:153996:2"/>
+            <p>AN Humble Remonstrance IN The Behalfe of the Protestants of this Kingdome, for setling the present distra<g ref="char:EOLhyphen"/>ctions in RELIGION, by a Na<g ref="char:EOLhyphen"/>tionall Synod.</p>
+            <p>WITH The Names of the Divines appointed and approved of by the Parliament to be consulted with in the Nationall Synod, for setling of Religion, and Reformation of Church-Government.</p>
+            <p>LONDON, Printed for <hi>R. Johnson.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:153996:3"/>
+            <pb n="1" facs="tcp:153996:3"/>
+            <head>An humble Remonstrance in the be<g ref="char:EOLhyphen"/>halfe of the Protestants of this Kingdome, for setling the present distractions in Religion by a Nationall Synod.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He bleeding distractions and divisions of this Kingdome, and the distempers raised in the Church touching the government thereof, and touching Doctrine and Dis<g ref="char:EOLhyphen"/>cipline are grown to that height, that mi<g ref="char:EOLhyphen"/>sery and confusion must needs follow, if some speedy course be not taken for the reconciliation of the one, and setling of the other, according to the Prescript of the sacred and pure Word of God, and the anci<g ref="char:EOLhyphen"/>ent Constitutions of the Church of <hi>England,</hi> since the Reformation of Religion.</p>
+            <p>There were great hopes upon the Parliaments late resolutions for the collection of a Synod Nationall, if the same had proceeded accordingly, that before this time a period might have been given to the divisions of <hi>Levi.</hi> But the Divell by his instruments hath so farre prevailed in raising the generall distractions of the Kingdome, that the proceedings in that great and pious work of reformation hath been hitherto pro<g ref="char:EOLhyphen"/>tracted and delayed, and the continuance thereof puts us in fear the same wilbe clean averted and put off.</p>
+            <pb n="2" facs="tcp:153996:4"/>
+            <p>We are not insensible unlesse we were stupidly blind seeing the presses groane, and both City and Coun<g ref="char:EOLhyphen"/>trey abound therwith of the ignorant and Contrary opinions touching reformation both in the Doctrine and Discipline of the Church, many ignorant men rushing into those matters whereof <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have no knowledge nor nothing belonging unto them, they will build Tabernacles with <hi>Peter,</hi> and lay Platforms for the Church whereof they have no skill: Every common person will be an <hi>Agrippa</hi> our <hi>Paul,</hi> and every woman a <hi>Bernice,</hi> and every mean person make a shop a Consistory to controll a State, forgetting the the Proverbe <hi>Nè Sutor ultra crepidam,</hi> the Shoemaker is not to exceed his Pantafle, Nay some so Impu<g ref="char:EOLhyphen"/>dently shamelesse are the times grown, that in their outward professions dare exclude the Clergie from having any thing to do in that matter.</p>
+            <p>Some would h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the determination of the Parlia<g ref="char:EOLhyphen"/>ment which consists only of lay men Phisitians Law<g ref="char:EOLhyphen"/>yers soldiers and tradesmen the only Judges of doc<g ref="char:EOLhyphen"/>trinall points binding to the Clergie without their Judgments or Approbation of the same: touching Government we are not ignorant of the present dis<g ref="char:EOLhyphen"/>putes we will not say by what kind of persons but the wise are troubled with the same come pleading for Episcopacy by divine right, some for independency as also by divine right, some with the Papist would have the Government depend upon the Church of <hi>Rome.</hi> And some for Presbytery Government.</p>
+            <p>How shall this diversity be composed as for ex<g ref="char:EOLhyphen"/>ample, Sunday is a Sabbath, Sunday no Sabath, both
+<pb n="3" facs="tcp:153996:4"/>true and both untrue in their severall acceptaions: who shall disolve this knot?</p>
+            <p>Some say Episcopall Government (and it is indeed manifest in the Governours) hath brought all this mischeifes and miseries that this nation and late flou<g ref="char:EOLhyphen"/>shing kindome now groanes under as being the origi<g ref="char:EOLhyphen"/>nall fountaine from whence they have all flowed.</p>
+            <p>Some again say, that independency is dangerous, lay<g ref="char:EOLhyphen"/>ing open the judgment of all men, and subject upon all occasions and opportuinties, to change with the times.</p>
+            <p>Some are of Opinion, that Presbitery being a new form of Government, will not without much trouble and danger to the Kingdome be admitted off, pre<g ref="char:EOLhyphen"/>sidents of former times both in this nation, and other kingdomes, having produced many suddaine and bloody effects upon the alteration of Church Go<g ref="char:EOLhyphen"/>verment.</p>
+            <p>And for dependency upon the Church of <hi>Rome</hi> all that are not Papists have protested against the same.</p>
+            <p>All men are sensible of the diversity touching the Liturgie, or Book of Common prayer, envy likewise shooting his arrow against that; But some hitting the same, some besides it, both on the right hand, and on the left, some over, and some beneath the same, as for example.</p>
+            <p>Some at the receving the Elements of the Lords Supper, sayin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kneeling is necessary, som warrantable, and some unwarrantable: And some say the same is Idolatrous, who shalbe judges of these differences, and
+<pb n="4" facs="tcp:153996:5"/>what order shall be made touching the same? We perswade our selves the Parliament deserts the least opinion of being Judges in Doctrinall points without the advice of the Clergie: they are principally the Judges of the danger the kingdom is in through de<g ref="char:EOLhyphen"/>visions both Ecleasticall and Civill, and temporall Magestrates to punish the vices of the Clergie, but who then shall compose the differences in Religion.</p>
+            <p>Surely the Clergie is a considerable party of the kingdome, especially touching Religion; Nay the Parliaments resolution for a Synod hath manifested to all the world the intentions of that high Court to have the judgments of the Clergie in that great Buissnes.</p>
+            <p>Wee acknowledge the Parliaments jurisdiction in calling Synods and such matters as by the same shall be treated and agitated must by them have their full determination and confirmation, and them turned into laws and Ordinances, with his Majesties consent which shall be binding to the whole kingdome aswell Clergie as Laity.</p>
+            <p>It is therefore desired that the Parliament may be petitioned to go on in election of a Synod and to assix a certain day for the meeting thereof, we doubt not but they may as safely sit in, or neer London as the Parliament it being not to be doubted that with their Approbation the Citie of <hi>London</hi> will affoord a com<g ref="char:EOLhyphen"/>petent Guard for the securety of their persons from treacherous contempts and conspiracies.</p>
+         </div>
+         <div type="list">
+            <pb n="5" facs="tcp:153996:5"/>
+            <head>the names of the Divines appointed for the National Synod.</head>
+            <list>
+               <item>M. Thomas Dillingham</item>
+               <item>M. Oliver Boles of Sutton</item>
+               <item>M. Wilkinson of Wadsden</item>
+               <item>M. Valentine of Chauson</item>
+               <item>D. Twist of Newberie</item>
+               <item>M. Raynor of Milton</item>
+               <item>M. Gammon of Mogen</item>
+               <item>M. Hix of Lawrick</item>
+               <item>D. Hoyle</item>
+               <item>M. Bridges</item>
+               <item>D. Wincomb</item>
+               <item>M. Thomas Goodwyn, a New-Ehgland man</item>
+               <item>M. Leigh</item>
+               <item>M. Case</item>
+               <item>D. Lane of Bennet colledg</item>
+               <item>D. Gouge of Black-Fryers</item>
+               <item>M. Pine of Dean Forrest</item>
+               <item>M. Whitton of Morton</item>
+               <item>D. Bromrig of Kath. Hall</item>
+               <item>D. Ward of Sidney</item>
+               <item>M. John White</item>
+               <item>M. Edward Peale</item>
+               <item>D. Gennison</item>
+               <item>M. Morton</item>
+               <item>M. Stephen Marshall</item>
+               <item>M. Obadiah Sedgwick</item>
+               <item>M. Levill of Rippon</item>
+               <item>M. Michael Thwait</item>
+               <item>M. William Mew</item>
+               <item>M. John Danning</item>
+               <item>M. Thomas Bathurst</item>
+               <item>M. Philip Nye</item>
+               <item>M. John Green of Bencon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>M. Gower of Brampton</item>
+               <item>D. Smith of Berkway</item>
+               <item>D. Burges of Watno</item>
+               <item>M. Wilson</item>
+               <item>M. Francis Taylor</item>
+               <item>M. Anthony Tuckey</item>
+               <item>M. Coleman of Blinton</item>
+               <item>M. Charles Earle</item>
+               <item>M. Richard Herick</item>
+               <item>M. Clayton of Shovell</item>
+               <item>M. Gibbs of Leicester</item>
+               <item>D. Calibute Downing</item>
+               <item>M. Burroughs of Stepney</item>
+               <item>M. Edmund Calamy</item>
+               <item>M. Walker</item>
+               <item>M. Caryl of Lincolns Inne</item>
+               <pb n="6" facs="tcp:153996:6"/>
+               <item>M. Scaman</item>
+               <item>D. Harris</item>
+               <item>
+                  <hi>M.</hi> Morbie</item>
+               <item>
+                  <hi>M.</hi> Reynolds of Branston</item>
+               <item>
+                  <hi>M.</hi> Hill of Tichmarsh</item>
+               <item>D. Sanderson</item>
+               <item>
+                  <hi>M.</hi> John Foxcraft</item>
+               <item>
+                  <hi>M.</hi> John Jackson</item>
+               <item>
+                  <hi>M.</hi> William Carter</item>
+               <item>
+                  <hi>M.</hi> Iohn Acrosmith of Lin</item>
+               <item>
+                  <hi>M.</hi> Thomas Thorowgood</item>
+               <item>
+                  <hi>M.</hi> Robert Harris</item>
+               <item>
+                  <hi>M.</hi> Robert Crosse</item>
+               <item>James Primate of Armah</item>
+               <item>D. Stiles of S. Georges</item>
+               <item>
+                  <hi>M.</hi> Samuel Gibson</item>
+               <item>
+                  <hi>M.</hi> Whitakers</item>
+               <item>D. Featly of Lambeth</item>
+               <item>D. Stanton of Kingston</item>
+               <item>
+                  <hi>M.</hi> Francis Cook</item>
+               <item>
+                  <hi>M.</hi> Lightfoot of Ashley</item>
+               <item>
+                  <hi>M.</hi> Samuel Hildersam</item>
+               <item>
+                  <hi>M.</hi> Corbett</item>
+               <item>
+                  <hi>M.</hi> Iohn Langley</item>
+               <item>
+                  <hi>M.</hi> Christopher Tisdell</item>
+               <item>
+                  <hi>M.</hi> Thomas Young</item>
+               <item>
+                  <hi>M.</hi> Iohn Philips.</item>
+               <item>
+                  <hi>M.</hi> Samuel Crook.</item>
+               <item>
+                  <hi>M.</hi> Comet <hi>of</hi> L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmington</item>
+               <item>
+                  <hi>M.</hi> Benjamin P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckering.</item>
+               <item>
+                  <hi>M.</hi> Nye <hi>of</hi> Chaphum.</item>
+               <item>
+                  <hi>M.</hi> Henry Hall.</item>
+               <item>
+                  <hi>M.</hi> Henry Hutton.</item>
+               <item>
+                  <hi>M.</hi> Henry Scudder</item>
+               <item>
+                  <hi>M.</hi> Thomas Baily</item>
+               <item>
+                  <hi>M.</hi> Arthur Sallaway</item>
+               <item>D. Pridiax, <hi>B. of</hi> Worcester</item>
+               <item>
+                  <hi>M.</hi> Burges of Sutton Coleby</item>
+               <item>
+                  <hi>M.</hi> Vines <hi>of</hi> Weddington</item>
+               <item>
+                  <hi>M.</hi> Richard Burlye</item>
+               <item>D. Temple <hi>of</hi> Battersey.</item>
+               <item>
+                  <hi>M.</hi> Shute of Lumbarstreet</item>
+               <item>
+                  <hi>M.</hi> Nicholson</item>
+               <item>
+                  <hi>M.</hi> Cattaker of Redriffe</item>
+               <item>
+                  <hi>M.</hi> Richard Floid.</item>
+               <item>D. Christopher Pashley</item>
+               <item>
+                  <hi>M.</hi> Hen. Toser</item>
+               <item>
+                  <hi>M.</hi> Spursto <hi>of</hi> London.</item>
+               <item>
+                  <hi>M.</hi> Francis Channell.</item>
+               <item>D. Hacket, <hi>of St.</hi> Andrewe.</item>
+               <item>Samuel de la Place.</item>
+               <item>Jo. dela March.</item>
+            </list>
+            <pb facs="tcp:153996:6"/>
+            <pb facs="tcp:153996:7"/>
+            <pb facs="tcp:153996:7"/>
+            <pb facs="tcp:153996:8"/>
+            <pb facs="tcp:153996:8"/>
+            <pb facs="tcp:153996:9"/>
+            <pb facs="tcp:153996:9"/>
+            <pb facs="tcp:153996:10"/>
+            <pb facs="tcp:153996:10"/>
+            <pb facs="tcp:153996:11"/>
+            <pb facs="tcp:153996:11"/>
+            <pb facs="tcp:153996:12"/>
+            <pb facs="tcp:153996:12"/>
+            <pb facs="tcp:153996:13"/>
+            <pb facs="tcp:153996:13"/>
+            <pb facs="tcp:153996:14"/>
+            <pb facs="tcp:153996:14"/>
+            <pb facs="tcp:153996:15"/>
+            <pb facs="tcp:153996:15"/>
+            <pb facs="tcp:153996:16"/>
+            <pb facs="tcp:153996:16"/>
+            <pb facs="tcp:153996:17"/>
+            <pb facs="tcp:153996:17"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
